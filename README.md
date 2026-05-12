@@ -1,21 +1,14 @@
-# terraform-azure-infra
-Azure infrastructure provisioning using Terraform
 # Terraform Azure Infrastructure
 
-This project provisions Azure infrastructure using Terraform.
-
 ## Resources Created
-- Azure Resource Group
-- Azure Storage Account
-
-## Tools Used
-- Terraform
-- Microsoft Azure
+- Resource Group
+- Storage Account
 
 ## Commands Used
-terraform init
-terraform plan
-terraform apply
+- terraform init
+- terraform validate
+- terraform plan
+- terraform apply
 
-## Author
-Gulam Sarvar
+## Output
+Infrastructure successfully deployed on Azure.
