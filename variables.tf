@@ -1,3 +1,3 @@
 variable "location" {
-  default = "Central India"
+  default = "east asia"
 }
